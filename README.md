@@ -1,10 +1,8 @@
-# Wireless Networks and Security
+# Wireless Networks and Security (Hayeon Yu and Alison Savary)
 
 ## WPA2 Enterprise Security
 
 __Korean/Swiss hybrid teams are highly encouraged__
-
-## Students : Hayeon Yu and Alison Savary
 
 ### For this first part, you will need to:
 
