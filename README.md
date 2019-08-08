@@ -4,6 +4,8 @@
 
 __Korean/Swiss hybrid teams are highly encouraged__
 
+## Students : Hayeon Yu and Alison Savary
+
 ### For this first part, you will need to:
 
 - Implement a WPE (Wireless Pwnage Edition) attack agains a WPA Enterprise network
@@ -39,7 +41,7 @@ How to run the attack:
 
 > **_Question :_** What options did you have to modify in the hostapd-wpe configuration file in order to make the attack work ?
 > 
-> **_Answer:_** 
+> **_Answer:_** We modified the ssid to fakeTestNetwork, choosed to keep channel 1 and made sure the interface was wlan0
 
 ---
 
