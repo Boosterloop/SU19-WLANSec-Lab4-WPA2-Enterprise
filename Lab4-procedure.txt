@@ -1,0 +1,12 @@
+First we installed hostapd-wpe on the KALI VM.
+We had to modify some options in the file "hostapd-wpe.conf" :
+	- We choosed a ssid --> fakeTestNetwork
+	- We choosed to stay on channel 1
+	- We checked that the interface was wlan0
+
+We used hostpad-wpe with our modified file and the Alfa AWUS036ACH (on monitor mode).
+Command we typed in the terminal : hostapd-wpe /etc/hostapd-wpe/hostapd-wpe.conf
+
+We then tried to connect to the network with our phones. We observed the username with the challenge and response in the terminal. (See Lab4-hostapd.PNG)
+
+We finally brute forced the NET-NTLM hash with the tool "john" and found the password. (See Lab4-john.PNG)
