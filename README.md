@@ -51,13 +51,7 @@ How to run the attack:
 
 > **_Question:_** Which authentication methods are supported by hostapd-wpe ?
 > 
-> **_Réponse:_** Open System Authentication and Shared Key Authentication
-- EAP-FAST/MSCHAPv2 (Phase 0)
-- PEAP/MSCHAPv2
-- EAP-TTLS/MSCHAPv2
-- EAP-TTLS/MSCHAP
-- EAP-TTLS/CHAP
-- EAP-TTLS/PAP
+> **_Réponse:_** EAP-FAST/MSCHAPv2 (Phase 0), PEAP/MSCHAPv2, EAP-TTLS/MSCHAPv2, EAP-TTLS/MSCHAP, EAP-TTLS/CHAP, EAP-TTLS/PAP
 
 
 ## In case of problems...
