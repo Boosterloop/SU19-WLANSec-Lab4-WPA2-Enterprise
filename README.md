@@ -47,13 +47,13 @@ How to run the attack:
 
 > **_Question:_** What type of hash did you capture ?
 > 
-> **_Answer:_** 
+> **_Answer:_** A NET-NTLM hash (Microsoft)
 
 ---
 
 > **_Question:_** Which authentication methods are supported by hostapd-wpe ?
 > 
-> **_Réponse:_**
+> **_Réponse:_** Open System Authentication and Shared Key Authentication
 
 
 ## In case of problems...
